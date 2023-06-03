@@ -1,0 +1,126 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+.container {
+  max-width: 850px; /* Change this value to adjust the maximum width */
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+/* Basic light theme styling */
+:root {
+  --ifm-color-primary: #1f65df;
+  --ifm-color-primary-dark: #1f65df;
+  --ifm-color-primary-darker: #1f65df;
+  --ifm-color-primary-darkest: #1f65df;
+  --ifm-color-primary-light: #1f65df;
+  --ifm-color-primary-lighter: #1f65df;
+  --ifm-color-primary-lightest: #1f65df;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --brand-assets-border-color: #000;
+  --inherited-function-block-color: black;
+}
+
+/* Basic dark theme styling */
+[data-theme='dark'] {
+  --ifm-color-primary: #e8bc0d;
+  --ifm-color-primary-dark: #e8bc0d;
+  --ifm-color-primary-darker: #e8bc0d;
+  --ifm-color-primary-darkest: #e8bc0d;
+  --ifm-color-primary-light: #e8bc0d;
+  --ifm-color-primary-lighter: #e8bc0d;
+  --ifm-color-primary-lightest: #e8bc0d;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-footer-background-color: #111112;
+  --brand-assets-border-color: #2a2a2a;
+  --inherited-function-block-color: white;
+} 
+
+/* Styling for image borders */
+.markdown img {
+  border-radius: 15px;
+}
+
+[data-theme='light'] .markdown img {
+  border: 1px solid #f2f2f2;
+}
+
+[data-theme='light'] .markdown img[src$='#modal'] {
+  border: none;
+}
+
+[data-theme='light'] .markdown img[src$='#presentation'] {
+  border: none;
+}
+
+[data-theme='dark'] .markdown img {
+  border: none;
+}
+
+[data-theme='dark'] .markdown img[src$='#presentation'] {
+  border: 1px solid #2a2a2a;
+}
+
+/* Special styling for token logo icon */
+img[src$='#token-logo'] {
+  width: 18px;
+  margin-bottom: 3px;
+  vertical-align: middle;
+}
+
+/* Styling for swap special uncontrast images on theme color */
+/* Example: ![Docusaurus themed image](/img/docusaurus.png#gh-light-mode-only)
+![Docusaurus themed image](/img/docusaurus-social-card.jpg#gh-dark-mode-only) */
+[data-theme='light'] img[src$='#gh-dark-mode-only'],
+[data-theme='dark'] img[src$='#gh-light-mode-only'] {
+  display: none;
+}
+
+/* Resolved known issues navigation styling */
+.tableOfContentsInline_node_modules-\@docusaurus-theme-classic-lib-theme-TOCInline-styles-module ul {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 10px;
+  padding-left: 25px;
+  padding-bottom: 10px;
+  padding-top: 10px !important;
+}
+
+/* Blocks to represent brand colors */
+.caps-colors {
+  border-radius: 10px;
+  width: 200px;
+  height: 70px;
+  margin-bottom: 25px;
+}
+
+.caps-colors.blue {
+  background-color: #1f65df;
+}
+
+.caps-colors.yellow {
+  background-color: #e8bc0d;
+}
+
+.caps-colors.dark {
+  border: 1px solid var(--brand-assets-border-color);
+  background-color: #1a1a1a;
+}
+
+/* Block for inherited function sign */
+
+.inherited-function {
+  display: inline-block;
+  font-size: 10px;
+  padding: 2px 7px 2px 7px;
+  border-radius: 7px;
+  margin-bottom: 10px;
+  color: var(--inherited-function-block-color);
+  border: 1px solid var(--inherited-function-block-color);
+  opacity: 50%;
+}
