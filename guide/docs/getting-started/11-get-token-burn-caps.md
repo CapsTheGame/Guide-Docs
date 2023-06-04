@@ -19,6 +19,12 @@ Each collection's total value is halved, starting from the first collection.
 
 Visit the **"Burn"** page.
 
+:::warning Attention
+First, you will need to activate approval so that the ([token contract](../smart-contracts/04-token.md)) can burn your caps. Check your wallet and confirm the approval.
+:::
+
+![CAPS burning waiting for approval message](/img/caps-burn-waiting-for-approval.jpg)
+
 Press **"Pick"** to open the picking modal.
 
 ![Burn the caps pick button](/img/burn-the-caps-pick-button.jpg#modal)
