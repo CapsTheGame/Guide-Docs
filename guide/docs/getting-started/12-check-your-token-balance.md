@@ -14,7 +14,3 @@ From any page in the app, press the button with your wallet address.
 You will see your CAPS token ![CAPS token logo](/img/token-logo.svg#token-logo) balance.
 
 ![CAPS token balance showup](/img/caps-token-balance-showup.jpg#modal)
-
-## Using block explorer
-
-TODO

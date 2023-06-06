@@ -55,7 +55,3 @@ We use [API3 QRNG↗](https://api3.org/QRNG).
 ### I've accidentally refreshed/closed the page before the cap was dropped
 
 That doesn't affect the process. Just check your "My caps" page a few minutes later.
-
-### The ticket was burned but I didn't get the cap
-
-That's impossible due to the request function's nature. Check your ticket balance and transaction history to figure out the real state of your balances.

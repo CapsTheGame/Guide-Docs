@@ -13,9 +13,7 @@ The maximum total supply of tokens is fixed at 21,000,000 and will be distribute
 
 Each collection's total value is halved, starting from the first collection.
 
-## How to mint
-
-### Using app interface
+## Using app interface
 
 Visit the **"Burn"** page.
 
@@ -44,10 +42,6 @@ The number of tokens you'll receive will be automatically calculated. Press **"B
 :::tip
 The lower the condition of your cap, the greater amount of tokens you will receive.
 :::
-
-### Using block explorer
-
-TODO
 
 ## Universal formula
 

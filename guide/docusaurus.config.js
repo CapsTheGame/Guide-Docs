@@ -77,7 +77,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/',
+            href: 'https://github.com/CapsTheGame',
             label: 'GitHub',
             position: 'right',
           },
