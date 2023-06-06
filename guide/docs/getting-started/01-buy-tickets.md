@@ -5,6 +5,8 @@ title: Buy tickets
 
 # Buy tickets
 
+## Using app interface
+
 To purchase tickets, visit [mycaps.app↗](https://mycaps.app) and press the **"Buy tickets"** button on the vending machine.
 
 ![How to buy CAPS tickets in vending machine](/img/how-to-buy-tickets-caps.jpg#modal)
