@@ -1,5 +1,4 @@
-// TODO: Create social card and replace default
-// TODO: Add search engine after going public
+// TODO: Add search engine
 
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
@@ -10,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 
-  noIndex: true, // TEMP robots.txt equialent, Defaults to `false`
+  noIndex: false, // robots.txt equialent, Defaults to `false`
 
   title: 'CAPS • Guide & Docs',
   tagline: 'Get complete information about how to start play CAPS',
@@ -56,8 +55,7 @@ const config = {
         // Use system settings
         respectPrefersColorScheme: true,
       },
-      // TEMP, Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo-showcase-dark.jpg',
       navbar: {
         logo: {
           alt: 'CAPS Logo',
