@@ -1,6 +1,6 @@
 # Info
 
-This website is built using [Docusaurus 2](https://docusaurus.io/).
+This documentation is built using [Docusaurus 2](https://docusaurus.io/).
 
 ### Boot
 
