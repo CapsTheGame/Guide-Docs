@@ -11,10 +11,10 @@ import TOCInline from '@theme/TOCInline';
 
 | Chain    | Address                                    |
 | -------- | ------------------------------------------ |
-| Ethereum | [0xdAC17F958D2ee523a2206206994597C13D831ec7](https://etherscan.io/address/0xdAC17F958D2ee523a2206206994597C13D831ec7) |
-| Polygon  | [0x0000000000c2d145a2526bd8c716263bfebe1a72](https://polygonscan.com/address/0x0000000000c2d145a2526bd8c716263bfebe1a72) |
-| Binance  | [0x2170ed0880ac9a755fd29b2688956bd959f933f8](https://bscscan.com/address/0x2170ed0880ac9a755fd29b2688956bd959f933f8) |
-| Fantom   | [0xa0cc33dd6f4819d473226257792afe230ec3c67f](https://ftmscan.com/address/0xa0cc33dd6f4819d473226257792afe230ec3c67f) |
+| Ethereum | [0x2292Eb9Bd4D1260A063E2D63D02914660009F67C](https://etherscan.io/address/0xdAC17F958D2ee523a2206206994597C13D831ec7) |
+| Polygon  | [0x4D0dcd4f71dde1B156C4Bf964E983685a8393d62](https://polygonscan.com/address/0x0000000000c2d145a2526bd8c716263bfebe1a72) |
+| Binance  | [0xC4681Aa1F77F25eE430090055782CaBfdDDDaca1](https://bscscan.com/address/0x2170ed0880ac9a755fd29b2688956bd959f933f8) |
+| Fantom   | [0xD588036Dc74303849E0e1056c6f98C598dcE32b3](https://ftmscan.com/address/0xa0cc33dd6f4819d473226257792afe230ec3c67f) |
 
 ## Functions
 
