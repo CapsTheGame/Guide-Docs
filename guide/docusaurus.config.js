@@ -132,6 +132,14 @@ const config = {
               },
             ],
           },
+          { title: 'Docs version',
+          items: [
+            {
+              label: '1.1.0', 
+              href: '#',
+            }
+          ],
+        },
         ],
       },
       prism: {
