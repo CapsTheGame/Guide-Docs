@@ -135,7 +135,7 @@ const config = {
           { title: 'Docs version',
           items: [
             {
-              label: '1.1.0', 
+              label: '1.2.0', 
               href: '#',
             }
           ],
